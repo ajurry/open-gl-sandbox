@@ -1,0 +1,3 @@
+// Variables that we can access in the source code
+#define OpenGL_VERSION_MAJOR @OpenGL_VERSION_MAJOR@
+#define OpenGL_VERSION_MINOR @OpenGL_VERSION_MINOR@

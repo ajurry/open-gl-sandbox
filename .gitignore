@@ -1,0 +1,2 @@
+# Remove build folder from git pushes
+**/build/**
